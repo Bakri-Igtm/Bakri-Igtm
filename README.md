@@ -12,7 +12,7 @@ About Me
 
 
 Skills
-Programming Languages: Python, C++, HTML, CSS
+Programming Languages: Python, C++, HTML, CSS, JavaScript
 Frameworks: PyGame, Pandas, Matplotlib, Redis
 Areas of Expertise: Software Development, Data Analysis, Game AI
 
