@@ -1,4 +1,4 @@
-## Hi there, I'm Bakri Igtm 👋
+## Hi there, I'm Bakri Diyaolu👋
 Welcome to my GitHub profile! I'm passionate about artificial intelligence, machine learning, and software development. Here, you'll find a variety of projects ranging from AI-powered applications to utility tools.
 
 ## About Me
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about artificial intelligence, mach
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/bakri-diyaolu/
 - Email: bakridiyaolu@gmail.com
-- Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+- Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration. Let's build something amazing together! 😁
 
 
 
